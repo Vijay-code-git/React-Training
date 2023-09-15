@@ -1,0 +1,31 @@
+.primary {
+  background-color: #c9252c;
+}
+
+.gradient {
+  color: #ffffff;
+}
+
+.bgColor {
+    background-color: #FFBC00;
+}
+
+.boxSize {
+    margin: 50px;
+}
+
+.text{
+    text-align: end;
+}
+
+.padding{
+    padding-right: 30px;
+}
+
+.align{
+    text-align: center;
+}
+
+buttonAling{
+    padding-left: 50px;
+}
